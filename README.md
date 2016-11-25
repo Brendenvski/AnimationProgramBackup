@@ -5,9 +5,10 @@
 This program was designed as a Capstone Project. It utilizes the Java Swing Builder in Netbeans. The program allows you to create drawings on a canvas whatever size(resolution) you please! You can save frames as you go and compile them in the end to a lopping GIF! While working, you can also save frames to your computer if you like a certain drawing(There are some examples below). In the end, you can choose your FPS(Frames Per Second) and export the file to a .gif file.
 
 # How to Start:
-*   Download the package. 
+*   Use git to pull this repository onto your system. 
 *   Create an executable file from your favourite Java IDE.
-*   Run the program and enjoy!
+*   (the program may also be compiled through NetBeans, instead of creating the executable)
+*   Enjoy!
 
 # How to Use:
 *   Enter the size of photo you would like ( #pixels x #pixels ). 
