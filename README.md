@@ -1,6 +1,5 @@
 # 2D Animation Program
 > Created By Brenden Villeneuve - UWaterloo
-> [Aerial Inspection Services](https://rawgit.com/Brendenvski/website/master/index.html)
 
 This program utilizes the Java Swing Builder in Netbeans. The program allows you to create drawings on a canvas whatever size(resolution) you please! You can save frames as you go and compile them in the end to a lopping GIF! While working, you can also save frames to your computer if you like a certain drawing(There are some examples below). In the end, you can choose your FPS(Frames Per Second) and export the file to a .gif file.
 
